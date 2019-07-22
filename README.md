@@ -9,7 +9,9 @@
 
 1. MySQLの使用するDockerイメージの取得
 
-  `docker pull mysql:<version>`
+　　[MySQLバージョン](https://hub.docker.com/_/mysql)
+
+  　　`docker pull mysql:<version>`
 
 2. docker-compose.ymlの編集
 
